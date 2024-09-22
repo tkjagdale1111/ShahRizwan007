@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Rizwan Shah!
 
-🎓 Data Enthusiast | Aspiring Data Analyst
+🎓 Data Enthusiast | Data Analyst
 
 I'm a dedicated and analytical individual with a passion for turning data into actionable insights. My expertise spans SQL, MySQL, Python, Excel, and Power BI. I'm driven by the goal of excelling in a dynamic Analyst role within a forward-thinking company, where I can leverage my skills to make a meaningful impact.
 
