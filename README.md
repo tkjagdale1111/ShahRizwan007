@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Rizwan Shah!
+### 👋 Hi, I'm Tukaram Jagdale!
 
 🎓 Data Enthusiast | Data Analyst
 
